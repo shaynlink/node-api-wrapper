@@ -17,13 +17,13 @@ npm install node-api-wrapper
 import on CommonJS
 
 ```js
-const { CreateAPI } = require("tychecker");
+const { CreateAPI } = require("node-api-wrapper");
 ```
 
 import on EcmaScript
 
 ```js
-import { CreateAPI } from "tychecker";
+import { CreateAPI } from "node-api-wrapper";
 ```
 
 simple example
